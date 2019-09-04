@@ -1,0 +1,17 @@
+{
+  "name": "hello-world-micro",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Hugo Di Francesco",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro server.js"
+  },
+  "dependencies": {
+    "micro": "^9.3.4"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "description": "Hello world app with micro"
+}
